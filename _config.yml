@@ -38,9 +38,9 @@ avatar: "/img/Brandon_pic.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#6e0000"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#8a8f96"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#5c0000"
 page-col: "#080808"
 link-col: "#FFFFFF"
 hover-col: "#ffe733"
