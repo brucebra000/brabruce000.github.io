@@ -38,15 +38,15 @@ avatar: "/img/Brandon_pic.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#541605"
+navbar-col: "#6e0000"
 navbar-text-col: "#8a8f96"
 navbar-children-col: "#F5F5F5"
-page-col: "#111112"
-link-col: "#598ef0"
+page-col: "#080808"
+link-col: "#FFFFFF"
 hover-col: "#ffe733"
-footer-col: "#541605"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#8a8f96"
+footer-col: "#6e0000"
+footer-text-col: "#828282"
+footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "brucebra000.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
