@@ -40,4 +40,4 @@ Lets dig through the cast column and count up every actor! I want to manufacture
 
 With everything sorted out, I traied the model and made the predictions. The machine can guess a movie's critic review score about **54.5%** of the time! Lets see what features our model found important.
 
-![Feature Importance](https://imgur.com/maDtX1F){: .center-block :}
+![Feature Importance](https://i.imgur.com/maDtX1F.png){: .center-block :}
