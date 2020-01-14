@@ -23,4 +23,4 @@ based on their critic review scores.
 
 **Certified Fresh** = Critic review score above 70%.  
 **Fresh** = Critic review score between 70% and 60%.  
-**Rotten = Critic review score lower than 60%.
+**Rotten** = Critic review score lower than 60%.
