@@ -6,7 +6,7 @@ tags: [Machine Learning]
 comments: true
 ---
 
-I've created a machine that will try to predict a movie's critic rating will be classified as _Certified Fresh_, _Fresh_, or _Rotten_
+I've created a machine that will try to predict if a movie's critic rating will be classified as _Certified Fresh_, _Fresh_, or _Rotten_
 on the website [Rotten Tomatoes](https://www.rottentomatoes.com/)!
 
 ![Certified Fresh](https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/31/1501854760-certified-fresh.png?resize=480:*){: .center-block :}
