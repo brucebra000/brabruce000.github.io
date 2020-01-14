@@ -2,8 +2,6 @@
 layout: post
 title: Rotten Tomatoes
 subtitle: Predicting Movie Ratings
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Machine Learning]
 comments: true
 ---
