@@ -1,3 +1,12 @@
+---
+layout: post
+title: Rotten Tomatoes
+subtitle: Predicting Movie Ratings
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [Machine Learning]
+comments: true
+---
 *Predicting Rotten Tomatoe's Crittic Ratings
 
 This machine learning algorithm will try to predict if a movie will score a
