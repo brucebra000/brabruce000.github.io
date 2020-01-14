@@ -14,7 +14,9 @@ on the website [Rotten Tomatoes](https://www.rottentomatoes.com/)!
 The dataset that was used for this project was posted by [Stefano Leone](https://www.kaggle.com/stefanoleone992)
 and can be found [here](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critics-datasets).
 
-[Here is the machine that will make the predictions](https://colab.research.google.com/drive/1Uy1lae7lP1lcsk9Z3LNDJpG6kjRngbRR)(Made in google colab).
+[Here is the machine that will make the predictions](https://colab.research.google.com/drive/1Uy1lae7lP1lcsk9Z3LNDJpG6kjRngbRR){: .center-block :}. 
+
+Most of what I will be talking about will appear in this google colab link.
 
 # What do these classifications mean?
 
