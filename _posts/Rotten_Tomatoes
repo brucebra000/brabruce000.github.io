@@ -7,7 +7,11 @@ gh-badge: [star, fork, follow]
 tags: [Machine Learning]
 comments: true
 ---
-*Predicting Rotten Tomatoe's Crittic Ratings
 
-This machine learning algorithm will try to predict if a movie will score a
-Certified Fresh, Fresh, or Rotten rating on Rotten Tomatoes.
+I've created a machine that will try to predict a movie's critic rating will be classified as _Certified Fresh_, _Fresh_, or _Rotten_
+on the website [Rotten Tomatoes](https://www.rottentomatoes.com/).
+
+The dataset that was used for this project was posted by [Stefano Leone](https://www.kaggle.com/stefanoleone992)
+and can be found [here](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critics-datasets).
+
+
