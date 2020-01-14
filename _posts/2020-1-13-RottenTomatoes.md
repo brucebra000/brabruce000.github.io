@@ -16,7 +16,7 @@ and can be found [here](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-m
 
 [Here is the machine that will make the predictions](https://colab.research.google.com/drive/1Uy1lae7lP1lcsk9Z3LNDJpG6kjRngbRR).
 
-#What do these classifications mean?
+# What do these classifications mean?
 
 Rotten Tomatoe's critic ratings are classified as _Certified Fresh_, _Fresh_, or _Rotten_
 based on their critic review scores.
