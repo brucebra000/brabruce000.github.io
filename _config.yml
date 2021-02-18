@@ -37,15 +37,15 @@ avatar: "/img/Brandon_Profile_Small.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#02ca0b"
-navbar-text-col: "#FFFFFF"
-navbar-children-col: "#04990a"
-page-col: "#0e0e0e"
-link-col: "#FFFFFF"
-hover-col: "#ffe733"
-footer-col: "#02ca0b"
-footer-text-col: "#d6d6d6"
-footer-link-col: "#FFFFFF"
+navbar-col: "#02ca0b"           #Green
+navbar-text-col: "#FFFFFF"      #White
+navbar-children-col: "#04990a"  #DarkGreen
+page-col: "#0e0e0e"             #DarkGray
+link-col: "#FFFFFF"             #White
+hover-col: "#ffe733"            #Yellow
+footer-col: "#02ca0b"           #Green
+footer-text-col: "#FFFFFF"      #White
+footer-link-col: "#000000"      #Black
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
