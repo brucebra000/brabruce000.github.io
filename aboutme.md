@@ -1,21 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Lamda School Data Science Student
+subtitle: Lamda School Graduate / Data Scientist
 ---
 
-Hello! I'm Brandon Bruce. Currently a student of DSPT3 at Lambda School
+Hello! I'm Brandon Bruce, a Data Scientist. I've been programming for a few years. I've done some Java in the past,
+but I am most fluent in Python. I've attended and completed the Data Science curriculum at Lambda School, where I 
+was taught most of my python knowledge and even some SQL. I've got experience working in a local environment, with
+groups, and gitbash. Here on my website, I'll show you several of the projects I have worked on in the past!
 
-<<<<<<< HEAD
-- Currently learning Data Science
-- Familiar with Java and Python
-=======
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
->>>>>>> upstream/master
+- Data Scientist
+- Fluent in Python
+- Know some Java
+- Know some SQL
+- Completed the Lambda School Data Science curriculum
+- Familiar with Gitbash
+- Familiar with group work
