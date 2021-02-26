@@ -100,7 +100,7 @@ navbar-text-col: "#FFFFFF"      #White
 navbar-children-col: "#04990a"  #DarkGreen
 page-col: "#0e0e0e"             #DarkGray
 text-col: "#d8d8d8 "            #LightGray
-link-col: "#FFFFFF"             #White
+link-col: "#a3e8e5"             #LightBlue
 hover-col: "#ffe733"            #Yellow
 footer-col: "#02ca0b"           #Green
 footer-text-col: "#FFFFFF"      #White
