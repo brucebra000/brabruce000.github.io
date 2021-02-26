@@ -4,7 +4,7 @@ title: Rotten Tomatoes
 subtitle: Predicting Movie Ratings
 cover-img: /assets/img/tomatoes.jpg
 thumbnail-img: /assets/img/rotten_tomatoes.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/rotten_tomatoes.jpg
 tags: [Machine Learning]
 comments: true
 ---
@@ -46,16 +46,18 @@ based on their critic review scores.
 
 With everything sorted out, I traied the model and made the predictions. The machine can guess a movie's critic review score about **54.5%** of the time! Lets see what features our model found important.
 
-![Feature Importance](https://i.imgur.com/maDtX1F.png){: .center-block :}
+![Feature Importance](https://i.imgur.com/maDtX1F.png)
 
 Seems like the studio that worked on the movie has a pretty big influence on its rating.
 
 Let's look at a confusion matrix to see how the machine is performing.
 
-![Confusion Matrix](https://i.imgur.com/UOGvYSU.png){: .center-block :}
+![Confusion Matrix](https://i.imgur.com/UOGvYSU.png)
 
 This machine can most accuratly predict when a movie will be classified as rotten.
 
 # Bonus
 
 At the bottom of the colab link, I have posted the name of every actor and how many movies they each appear in. I've also tallied up the number of times each genre is used. I thought it was intresting to see how many rolls each actor has had and how many times each genre was used, So I left the information there for you to explore.
+
+![test](https://github.com/brucebra000/brucebra000.github.io/blob/master/assets/img/thumb.png)
