@@ -12,7 +12,7 @@ comments: true
 I've created a machine that will try to predict if a movie's critic rating will be classified as _Certified Fresh_, _Fresh_, or _Rotten_
 on the website [Rotten Tomatoes](https://www.rottentomatoes.com/)!
 
-<center>![Certified Fresh](https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/31/1501854760-certified-fresh.png?resize=480:*)</center>
+![Certified Fresh](https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/31/1501854760-certified-fresh.png?resize=480:*)
 
 The dataset that was used for this project was posted by [Stefano Leone](https://www.kaggle.com/stefanoleone992)
 and can be found [here](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critics-datasets).
@@ -46,7 +46,9 @@ based on their critic review scores.
 
 With everything sorted out, I traied the model and made the predictions. The machine can guess a movie's critic review score about **54.5%** of the time! Lets see what features our model found important.
 
-![Feature Importance](https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/rotten_tomatoes_feature_importance.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/rotten_tomatoes_feature_importance.png" alt="Feature Importance"/>
+</p>
 
 Seems like the studio that worked on the movie has a pretty big influence on its rating.
 
