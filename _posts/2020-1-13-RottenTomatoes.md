@@ -46,13 +46,13 @@ based on their critic review scores.
 
 With everything sorted out, I traied the model and made the predictions. The machine can guess a movie's critic review score about **54.5%** of the time! Lets see what features our model found important.
 
-![Feature Importance](https://github.com/brucebra000/brucebra000.github.io/blob/master/assets/img/rotten_tomatoes_feature_importance.png)
+![Feature Importance](https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/rotten_tomatoes_feature_importance.png)
 
 Seems like the studio that worked on the movie has a pretty big influence on its rating.
 
 Let's look at a confusion matrix to see how the machine is performing.
 
-![Confusion Matrix](https://github.com/brucebra000/brucebra000.github.io/blob/master/assets/img/rotten_tomatoes_confusion_matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/rotten_tomatoes_confusion_matrix.png)
 
 This machine can most accuratly predict when a movie will be classified as rotten.
 
