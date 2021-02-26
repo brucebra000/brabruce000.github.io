@@ -12,7 +12,9 @@ comments: true
 I've created a machine that will try to predict if a movie's critic rating will be classified as _Certified Fresh_, _Fresh_, or _Rotten_
 on the website [Rotten Tomatoes](https://www.rottentomatoes.com/)!
 
-![Certified Fresh](https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/31/1501854760-certified-fresh.png?resize=480:*)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/rotten_tomatoes.png" alt="Rotten Tomatoes Logo"/>
+</p>
 
 The dataset that was used for this project was posted by [Stefano Leone](https://www.kaggle.com/stefanoleone992)
 and can be found [here](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critics-datasets).
@@ -54,7 +56,9 @@ Seems like the studio that worked on the movie has a pretty big influence on its
 
 Let's look at a confusion matrix to see how the machine is performing.
 
-![Confusion Matrix](https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/rotten_tomatoes_confusion_matrix.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/rotten_tomatoes_confusion_matrix.png" alt="Confusion Matrix"/>
+</p>
 
 This machine can most accuratly predict when a movie will be classified as rotten.
 
