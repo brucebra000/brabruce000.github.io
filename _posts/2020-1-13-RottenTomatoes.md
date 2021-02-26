@@ -26,9 +26,9 @@ Most of what I will be talking about will appear in this google colab link.
 Rotten Tomatoe's critic ratings are classified as _Certified Fresh_, _Fresh_, or _Rotten_
 based on their critic review scores.
 
-**Certified Fresh** = Critic review score above 75%.  
-**Fresh** = Critic review score between 75% and 60%.  
-**Rotten** = Critic review score lower than 60%.
+> **Certified Fresh** = Critic review score above 75%.  
+> **Fresh** = Critic review score between 75% and 60%.  
+> **Rotten** = Critic review score lower than 60%.
 
 # About the data
 
@@ -46,18 +46,16 @@ based on their critic review scores.
 
 With everything sorted out, I traied the model and made the predictions. The machine can guess a movie's critic review score about **54.5%** of the time! Lets see what features our model found important.
 
-![Feature Importance](https://i.imgur.com/maDtX1F.png)
+![Feature Importance](https://github.com/brucebra000/brucebra000.github.io/blob/master/assets/img/rotten_tomatoes_feature_importance.png)
 
 Seems like the studio that worked on the movie has a pretty big influence on its rating.
 
 Let's look at a confusion matrix to see how the machine is performing.
 
-![Confusion Matrix](https://i.imgur.com/UOGvYSU.png)
+![Confusion Matrix](https://github.com/brucebra000/brucebra000.github.io/blob/master/assets/img/rotten_tomatoes_confusion_matrix.png)
 
 This machine can most accuratly predict when a movie will be classified as rotten.
 
 # Bonus
 
 At the bottom of the colab link, I have posted the name of every actor and how many movies they each appear in. I've also tallied up the number of times each genre is used. I thought it was intresting to see how many rolls each actor has had and how many times each genre was used, So I left the information there for you to explore.
-
-![test](https://github.com/brucebra000/brucebra000.github.io/blob/master/assets/img/thumb.png)
