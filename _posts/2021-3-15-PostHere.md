@@ -2,12 +2,24 @@
 layout: post
 title: Post Here
 subtitle: Find the right subreddit for you!
-cover-img: /assets/img/tomatoes.jpg
+cover-img: /assets/img/reddit_banner.png
 thumbnail-img: /assets/img/reddit_logo.png
-share-img: /assets/img/rotten_tomatoes.jpg
+share-img: /assets/img/reddit_logo.png
 tags: [Machine Learning, Teams]
 comments: true
 ---
+
+[Post Here](https://post-here.spentaur.workers.dev/) is a tool designed by our team that allows users to determine which subreddit on Reddit would be the best fit for the type of post they wish to create.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/reddit_logo.png" alt="Reddit Logo"/>
+</p>
+
+# What is Post Here?
+
+[Post Here](https://post-here.spentaur.workers.dev/) helps users find subreddits that best fits the topic of the post they want to make. This tool was designed by a team of data scientists and web developers. By using machine learning, we've scraped thousands of posts from hundreds of subreddits and scoped out key words that are often found in a subreddit's posts. We use this information to determine which subreddit would be the best match for the post the user is trying to create. Only a title is required for this tool to work, but text posts can help give our machine more information so that it can more accuratly find the subreddit for you. Once a subreddit is found, users can then click the "Post Here" link to be brought to that subreddit with their post already premade and ready to be posted!
+
+# How to use Post Here
 
 # Contributors
 
