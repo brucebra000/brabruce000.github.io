@@ -9,7 +9,7 @@ tags: [Machine Learning, Teams]
 comments: true
 ---
 
-[Post Here](https://post-here.spentaur.workers.dev/) is a tool designed by our team that allows users to determine which subreddit on Reddit would be the best fit for the type of post they wish to create.
+[Post Here](https://post-here.spentaur.workers.dev/) is a tool designed by our team that allows users to determine which subreddit on [Reddit](https://www.reddit.com/) would be the best fit for the type of post they wish to create.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/reddit_logo.png" alt="Reddit Logo"/>
@@ -20,6 +20,32 @@ comments: true
 [Post Here](https://post-here.spentaur.workers.dev/) helps users find subreddits that best fits the topic of the post they want to make. This tool was designed by a team of data scientists and web developers. By using machine learning, we've scraped thousands of posts from hundreds of subreddits and scoped out key words that are often found in a subreddit's posts. We use this information to determine which subreddit would be the best match for the post the user is trying to create. Only a title is required for this tool to work, but text posts can help give our machine more information so that it can more accuratly find the subreddit for you. Once a subreddit is found, users can then click the "Post Here" link to be brought to that subreddit with their post already premade and ready to be posted!
 
 # How to use Post Here
+
+Reddit is like one giant forum that is broken down into just about any topic you can think of, so when you want to share something, you need to be sure you're in the right place. This is where Post Here comes in. Our machine will attempt to find a subreddit that most closely relates to your topic. Let's walk through the process. Click [here](https://post-here.spentaur.workers.dev/) to reach Post Here.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/Post_Here_0.png" alt="Post Here step 1"/>
+</p>
+
+This is just like making a post on Reddit. All Reddit posts require a title, so you will need to title your post. Text is optional, but it will help our machine locate an appropriate subreddit for your post. Once you're done, click "Submit" to find a subreddit.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/Post_Here_1.png" alt="Post Here step 2"/>
+</p>
+
+There we have it! A subreddit that matches the topic of our post! We can even see how populated this subreddit is.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/Post_Here_2.png" alt="Post Here step 3"/>
+</p>
+
+If you are satisfied with the result, you can then click on the "Post Here" button to be brought to that subreddit with your post ready to be posted.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/Post_Here_3.png" alt="Post Here step 4"/>
+</p>
+
+And just like that, your post has been made and placed in a relevent subreddit.
 
 # Contributors
 
