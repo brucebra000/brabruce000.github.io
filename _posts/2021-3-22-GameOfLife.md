@@ -30,7 +30,7 @@ Let's take a look at this example. Here, the top-middle, middle-left, and middle
   <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/gol_ex1.png" alt="gol ex1"/>
 </p>
 
-So given the rules above, the middle-left and middle-right cells will die, since they only have 1 living neighbor which they require 2 or 3. The top-middle cell survives this generation since it has 2 living neighbors. The cell in the middle has become alive since that cell was surrounded by exactly 3 live cells.
+So given the rules above, the middle-left and middle-right cells will die, since they only have 1 living neighbor. The top-middle cell survives this generation since it has 2 living neighbors. The cell in the middle has become alive since that cell was surrounded by exactly 3 live cells.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/brucebra000/brucebra000.github.io/master/assets/img/gol_ex2.png" alt="gol ex2"/>
