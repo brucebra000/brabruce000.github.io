@@ -21,7 +21,7 @@ Radical Ride is an endless runner type of game. This game was a lab project I've
 ["Junior Programmer: Create with code 2"](https://learn.unity.com/mission/programming-simple-functionality?pathwayId=5f7e17e1edbc2a5ec21a20af) learning course on [Unity Learn](https://learn.unity.com/).
 
 <p align="center">
-  <img src="/assets/img/Radical_Ride_Thumbnail.png"/>
+  <img src="/assets/img/Radical_Ride_Gameplay.png"/>
 </p>
 
 # How to play
